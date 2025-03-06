@@ -19,6 +19,5 @@ I like solving problems and looking for different solutions. My goal is to const
 
 <p align="left"> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/yevheni%D1%96a-zalevska-303551331/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YevheniiaZalevska&theme=buefy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YevheniiaZalevska&theme=buefy)
