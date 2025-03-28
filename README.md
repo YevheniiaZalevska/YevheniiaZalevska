@@ -27,7 +27,9 @@ I like solving problems and looking for different solutions. My goal is to const
 - Git  
 - Vite  
 - API  
-- Vercel  
+- Vercel
+- Jira
+- Slack
 
 ### 📐 Methodologies:  
 - Responsive/Adaptive Design  
