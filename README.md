@@ -2,44 +2,51 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 
-I like solving problems and looking for different solutions. My goal is to constantly improve my skills and create valuable digital products. I am inspired to work on new projects and gain experience. I have sound knowledge of HTML, CSS, JavaScript, and React. Also, I have hands-on experience in following Agile/Scrum methodology when working in a team. I am a fast learner, responsible, and ready for challenging tasks.In my free time I like to dance and paint. I am a creative person and always have a positive attitude towards new tasks.  
+Frontend Developer with hands-on experience building responsive websites and single-page applications using HTML, CSS, JavaScript, React, and Redux. Worked on commercial and freelance projects, collaborated in Agile/Scrum teams, and participated in website development, deployment, and client-oriented delivery. Focused on creating user-friendly interfaces, solving problems effectively, and continuously improving technical skills.
 
 * 🌍  I'm based in Gdansk, Poland
 * ✉️  You can contact me at [yevhenia05@gmail.com](mailto:yevhenia05@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/yevheni%D1%96a-zalevska-303551331/)
 
 ## 🏅 My key achievements:
-- Developed and optimized SPA using React, React Router, and Redux.
-- Handled errors and managed request states with Redux Toolkit.
-- Setting up CI/CD and automatic deployment on Vercel, Netlify.
-- Worked in Agile/Scrum teams, managed tasks in Jira/Trello, conducted code reviews, and worked with Git and GitHub.
-- Integrating third-party APIs (e.g., information, image libraries) into a web project.  
+- Delivered a full-cycle website project independently, from UI design to deployment and hosting setup.
+- Built responsive and user-friendly interfaces for real-world projects.
+- Contributed to frontend implementation in a collaborative three-person team.
+- Participated in deployment processes using platforms such as Vercel and Netlify.
+- Successfully adapted to a complete change in project requirements and delivered the new scope of work within two months
+- Worked as a Team Lead for a 4-person team, coordinating tasks, communication, and project delivery.
 
 
 ## 💻 Technical Skills  
 
 ### 📜 Front-End Technologies:  
 - HTML5, CSS3, JavaScript, TypeScript  
-- React (Hooks, Context, React Router, Redux, Redux Toolkit)  
+- React (Hooks, Context, React Router, Redux, Redux Toolkit)
+- Single Page Applications (SPA)
 - npm libraries  
 
 ### 🔧 Tools:  
-- Git  
+- Git
+- GitHub
+- Webpack
+- WordPress
 - Vite  
-- API  
+- Figma 
 - Vercel
 - Jira
 - Slack
 
 ### 📐 Methodologies:  
-- Responsive/Adaptive Design  
+- Responsive Design  
 - Agile/Scrum
+- Adaptive Layout
+- API integration
 
 ## 💪 Soft Skills  
 
-- Teamwork (experience collaborating with cross-functional teams)  
-- Customer focus  
-- Goal setting and time management  
+- Teamwork  
+- Time management  
+- Self-organization  
 - Critical thinking  
 
 <p align="left">
