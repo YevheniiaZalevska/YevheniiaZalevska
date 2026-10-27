@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 
-Frontend Developer with hands-on experience building responsive websites and single-page applications using HTML, CSS, JavaScript, React, and Redux. Worked on commercial and freelance projects, collaborated in Agile/Scrum teams, and participated in website development, deployment, and client-oriented delivery. Focused on creating user-friendly interfaces, solving problems effectively, and continuously improving technical skills.
+with hands-on experience building responsive websites and single-page applications using HTML, CSS, JavaScript, React, and Redux. I've worked on commercial and freelance projects, collaborated in Agile/Scrum teams, and participated in website development, deployment, and client-oriented delivery.
 
 * 🌍  I'm based in Gdansk, Poland
 * ✉️  You can contact me at [yevhenia05@gmail.com](mailto:yevhenia05@gmail.com)
