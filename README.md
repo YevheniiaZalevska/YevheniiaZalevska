@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 with hands-on experience building responsive websites and single-page applications using HTML, CSS, JavaScript, React, and Redux. I've worked on commercial and freelance projects, collaborated in Agile/Scrum teams, and participated in website development, deployment, and client-oriented delivery.
 
+I also work with AI tools to create websites, posters, videos, and other digital content, combining technical skills with creativity to bring ideas to life. I'm passionate about building user-friendly interfaces, exploring new technologies, solving problems effectively, and continuously improving my skills.
+
 * 🌍  I'm based in Gdansk, Poland
 * ✉️  You can contact me at [yevhenia05@gmail.com](mailto:yevhenia05@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/yevheni%D1%96a-zalevska-303551331/)
